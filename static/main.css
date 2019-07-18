@@ -3,11 +3,22 @@ body {
 }
 
 h1 {
-  color: white;
+  background-color: grey;
+  color: black;
   text-align: center;
+}
+div{
+  background-color: pink;
 }
 
 h2 {
+  color:green;
+  text-align:justify;
   font-family: verdana;
-  font-size: 20px;
+  font-size: 30px;
+}
+
+h3 {
+  color: green;
+  text-align: left align;
 }
